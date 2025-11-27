@@ -1,0 +1,8 @@
+id,name,age,score,result,grade,age_group
+1,Ali,23,88,Pass,B,Adult
+2,Sara,22,91,Pass,A,Young
+3,John,24,76,Pass,C,Adult
+4,Mina,23,45,Fail,F,Adult
+5,Tom,22,59,Fail,F,Young
+6,Lima,21,99,Pass,A,Young
+7,Rob,23,33,Fail,F,Adult
